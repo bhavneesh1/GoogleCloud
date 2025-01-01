@@ -1,1 +1,17 @@
-abcd
+Compute Engine is an IAAS  serviceof google cloud.
+One can use compute enginer service to create virtual amachines on google cloud.
+You can mention what will be the OS , and other resources like CPU ,Memory,Disk and Networrk to submit a request to create a VM to Google cloud and the VM will be accessiblw within minutes.
+
+Machine Types in Google cloud
+In Google cloud one can create variety of compute engines and machine types are templates for each type of Compute Engine.
+Each Machine type will have different cpu ,memory and disk capabilities.
+
+
+Standard Machine Type - Balanced instance for RAM An CPU.(N1,N2,N4)
+It has 3.75 Gb RAM per virtual CPU.
+
+
+High Memory Machine Type -  It is designed for memory intensive machines
+It has 6.5 gb RAM per virtual CPU
+
+Shared-core machine type - For non resource intensive applications.
