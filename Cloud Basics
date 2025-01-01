@@ -14,5 +14,7 @@ IAAS- Infrastructure as a service
 PAAS- Platform as a service
 SAAS- Software as a service
 
-IAAS- In IAAS cloud will give you n/w ,servers,storage & virtualization and you will have to manage the OS,middleware,data applications
+IAAS- In IAAS cloud will give you n/w ,servers,storage & virtualization and you will have to manage the OS,middleware,Runtime,data applications. eg Compute Engine
+PAAS- One only need to manage data and application, rest everything is available. eg appengine
+SAAS-You can use cloud managed applications without any need to worry about underlying infrastructure. eg Gmail,Microsoft 365
 
