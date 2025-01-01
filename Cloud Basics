@@ -1,0 +1,18 @@
+Google Cloud Basics
+
+Cloud computing is ondemand availabilty of computer system resources.
+Cloud is a rented module .  Instead of creating  and managing your complete infrastructure by yourself you can rent infra and services from prominent cloud platforms.
+
+Cloud Characterstics-
+ On demand availabilty
+ Pay as you go
+ Sacalable
+ Broad N/w access - Customers can access resources from anywhere in the world.
+
+Cloud Services-
+IAAS- Infrastructure as a service
+PAAS- Platform as a service
+SAAS- Software as a service
+
+IAAS- In IAAS cloud will give you n/w ,servers,storage & virtualization and you will have to manage the OS,middleware,data applications
+
