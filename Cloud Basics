@@ -18,3 +18,10 @@ IAAS- In IAAS cloud will give you n/w ,servers,storage & virtualization and you 
 PAAS- One only need to manage data and application, rest everything is available. eg appengine
 SAAS-You can use cloud managed applications without any need to worry about underlying infrastructure. eg Gmail,Microsoft 365
 
+Types OF Cloud -
+
+ Public Cloud - eg AWS,GCP,Azure,IBM cloud ( Shared infrastructure that resides in data centre of AWS,Google,Azure etc)
+ Private Cloud - Cloud Infrastructure exclusive to a single company - eg - IBM CLoud Private
+ Hybrid Cloud - Combination of Public and private offerings . Some resources are there in public cloud some in private .
+
+ "Google cloud takes an upper hand in AI and data streams and has a promising security solution as well which is still not completely mature."
