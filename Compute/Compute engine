@@ -1,17 +1,21 @@
-Compute Engine is an IAAS  serviceof google cloud.
+Types of Services in Google cloud
+ServerBased services - Compute Comprises of 3 services( Compute Engine,K8 Enginer,VM Engine).This is provided as IAAS you need to manage teh server.
+ServerLess Services-You  dont need to Manage the server ( it is like PAAS).AppEngine,CloudRun,Cloud Function.
+
+Compute Engine is an IAAS  service of google cloud.
 One can use compute enginer service to create virtual amachines on google cloud.
 You can mention what will be the OS , and other resources like CPU ,Memory,Disk and Networrk to submit a request to create a VM to Google cloud and the VM will be accessiblw within minutes.
+Google cloud has a capbilty to create a custom machine which other cloud providers dont provide.Data is encrypted by default in all services.In other cloud providers you need to enable the encryption.
+Google cloud uses KVM hypervisor, aws use nitro hypervisor ,azure has hyper v hypervisor.
+NOTE- > Google cloud bills per second with min of 1 min.
 
-Machine Types in Google cloud
-In Google cloud one can create variety of compute engines and machine types are templates for each type of Compute Engine.
-Each Machine type will have different cpu ,memory and disk capabilities.
+Machine Types /families in Google cloud
+General-purpose —best price-performance ratio for a variety of workloads.
+Storage-optimized —best for workloads that are low in core usage and high in storage density.
+Compute-optimized —highest performance per core on Compute Engine and optimized for compute-intensive workloads.
+Memory-optimized —ideal for memory-intensive workloads, offering more memory per core than other machine families, with up to 12 TB of memory.
+Accelerator-optimized/GPU —ideal for massively parallelized Compute Unified Device Architecture (CUDA) compute workloads, such as machine learning (ML) and high performance computing (HPC). This family is the best option for workloads that require GPUs.
 
+You can attach local SSD upto 3 TB.( this is temperory storage),persistent upto 64 TB.
+Fastest booting time among all cloud providers.
 
-Standard Machine Type - Balanced instance for RAM An CPU.(N1,N2,N4)
-It has 3.75 Gb RAM per virtual CPU.
-
-
-High Memory Machine Type -  It is designed for memory intensive machines
-It has 6.5 gb RAM per virtual CPU
-
-Shared-core machine type - For non resource intensive applications.
